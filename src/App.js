@@ -73,7 +73,7 @@ const fetchCrack = () => {
 })
 .catch(err => {
   console.log(err);
-  console.log("you've Crack errored");
+  console.log("your have Crack errored!");
   return;
 });
 }
