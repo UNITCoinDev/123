@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/123/static/css/main.ae8ad588.chunk.css",
-    "main.js": "/123/static/js/main.8f6ba9f1.chunk.js",
-    "main.js.map": "/123/static/js/main.8f6ba9f1.chunk.js.map",
-    "runtime-main.js": "/123/static/js/runtime-main.c9c1a615.js",
-    "runtime-main.js.map": "/123/static/js/runtime-main.c9c1a615.js.map",
-    "static/js/2.216dceb1.chunk.js": "/123/static/js/2.216dceb1.chunk.js",
-    "static/js/2.216dceb1.chunk.js.map": "/123/static/js/2.216dceb1.chunk.js.map",
-    "static/js/3.414eaf27.chunk.js": "/123/static/js/3.414eaf27.chunk.js",
-    "static/js/3.414eaf27.chunk.js.map": "/123/static/js/3.414eaf27.chunk.js.map",
-    "index.html": "/123/index.html",
-    "static/css/main.ae8ad588.chunk.css.map": "/123/static/css/main.ae8ad588.chunk.css.map",
-    "static/js/2.216dceb1.chunk.js.LICENSE.txt": "/123/static/js/2.216dceb1.chunk.js.LICENSE.txt"
+    "main.css": "/NFT-checker/static/css/main.10fbef6a.chunk.css",
+    "main.js": "/NFT-checker/static/js/main.ba6b6c1a.chunk.js",
+    "main.js.map": "/NFT-checker/static/js/main.ba6b6c1a.chunk.js.map",
+    "runtime-main.js": "/NFT-checker/static/js/runtime-main.46671a47.js",
+    "runtime-main.js.map": "/NFT-checker/static/js/runtime-main.46671a47.js.map",
+    "static/js/2.222ec089.chunk.js": "/NFT-checker/static/js/2.222ec089.chunk.js",
+    "static/js/2.222ec089.chunk.js.map": "/NFT-checker/static/js/2.222ec089.chunk.js.map",
+    "index.html": "/NFT-checker/index.html",
+    "static/css/main.10fbef6a.chunk.css.map": "/NFT-checker/static/css/main.10fbef6a.chunk.css.map",
+    "static/js/2.222ec089.chunk.js.LICENSE.txt": "/NFT-checker/static/js/2.222ec089.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9c1a615.js",
-    "static/js/2.216dceb1.chunk.js",
-    "static/css/main.ae8ad588.chunk.css",
-    "static/js/main.8f6ba9f1.chunk.js"
+    "static/js/runtime-main.46671a47.js",
+    "static/js/2.222ec089.chunk.js",
+    "static/css/main.10fbef6a.chunk.css",
+    "static/js/main.ba6b6c1a.chunk.js"
   ]
 }
